@@ -1,0 +1,6 @@
+{
+  "name": "FestFlow - College Event Discovery & Matching Platform",
+  "description": "Lean, high-performance college event discovery and matching platform with frictionless 1-minute event posting and automated tag-based matching feed.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
